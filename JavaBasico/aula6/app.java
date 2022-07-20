@@ -42,9 +42,9 @@ public class app {
             System.out.println("Altura: ");
             tp1.setAltura(entrada.nextInt());
             System.out.println("Base Maior: ");
-            tp1.setBaseMaior(entrada.nextInt());
+            tp1.setBaseA(entrada.nextInt());
             System.out.println("Base Menor: ");
-            tp1.setBaseMenor(entrada.nextInt());
+            tp1.setBaseB(entrada.nextInt());
             System.out.println("Lado A: ");
             tp1.setLadoA(entrada.nextInt());
             System.out.println("Lado B: ");

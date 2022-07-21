@@ -33,4 +33,14 @@ public class Eqxn extends Equacao{
         return getXn();
     }
 
+    // public double calculaXn(Delta d){
+    //     xn=(-d.getB()-Math.sqrt(d.getDelta()))/(2*d.getA());
+    //     return xn;
+    // }
+
+    // public double calculaXp(Delta d){
+    //     xp=(-d.getB()+Math.sqrt(d.getDelta()))/(2*d.getA());
+    //     return xp;
+    // }
+
 }

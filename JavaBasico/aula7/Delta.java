@@ -19,4 +19,8 @@ public class Delta extends Equacao {
         return delta;
     }
 
+    // public double calculaDelta(){
+    // delta = (Math.pow(super.getB(),2) - (4 *super.getA() * super.getB()));
+    // }
+
 }
